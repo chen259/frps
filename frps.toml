@@ -14,8 +14,8 @@ transport.tls.force = false
 
 webServer.addr = "0.0.0.0"
 webServer.port = 7500
-webServer.user = "admin"
-webServer.password = "admin"
+webServer.user = "chen259"
+webServer.password = "chen259"
 webServer.pprofEnable = false
 
 log.to = "./frps.log"
